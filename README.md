@@ -1,3 +1,3 @@
 embedded_system_online_diploma
 
-Mohamed moustafa
+Mohamed Moustafa Selim
