@@ -12,7 +12,7 @@ int main(void) {
 	scanf("%d",&y);
 
 	int product = x * y;
-	printf("Sum = %d",product);
+	printf("Product	= %d",product);
 
 	return 0;
 }
