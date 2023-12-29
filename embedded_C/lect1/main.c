@@ -40,6 +40,9 @@ typedef union {
 }R_ODR_t;
 
 volatile R_ODR_t* R_ODR = (volatile R_ODR_t*)(GPIO_BASE + 0x0C);
+unsigned char g_variables[3] = {1,2,3};
+unsigned char const const_variables[3] = {1,2,3};
+
 
 int main(void)
 {
